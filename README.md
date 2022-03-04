@@ -1,6 +1,6 @@
 # phpWebBanc
 ## webBanc 
-[site](webbancrf.epizy.com/)
+[webbancrf](webbancrf.epizy.com)
  - cadastro
  - login
  - abertura de contas 
