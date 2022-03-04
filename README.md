@@ -1,5 +1,15 @@
 # phpWebBanc
-webBanc com cadastro/login/abertura de contas e movimentção
-front-end => html/css/bootstrap/javascript
-back-end => php
-database => mysql
+## webBanc 
+ - cadastro
+ - login
+ - abertura de contas 
+ - movimentção
+   
+| front-end | back-end | database|   
+|-----------|----------|---------|
+|   html    |   php    |  mysql  |      
+|   css     |   mvc    |         |
+| bootstrap |          |         |
+| javascript|          |         |
+
+
