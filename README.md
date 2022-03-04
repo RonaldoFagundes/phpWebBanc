@@ -1,6 +1,6 @@
 # phpWebBanc
 ## webBanc 
-site:point_down:
+site:point_right:
 [webbancrf](http://webbancrf.epizy.com/)
  - cadastro
  - login
