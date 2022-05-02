@@ -55,7 +55,7 @@
    <div class="carousel-item active">     
     <div class="container-card">	 
      <div class="card">	 
-      <div class="imgBx" data-text="Quem somos:"><img src="img/who.png"></div>	   
+      <div class="imgBx" data-text="Quem somos:"><img src="img/who.JPG"></div>	   
        <div class="content">	  
         <div>	
 		 <h3>Quem somos :</h3>		
@@ -72,7 +72,7 @@
        </div> 	  
      </div>	 	  	  
      <div class="card">
-      <div class="imgBx" data-text="Nossa História: "><img src="img/history.PNG"></div>   
+      <div class="imgBx" data-text="Nossa História: "><img src="img/history.JPG"></div>   
        <div class="content">
         <div>
 	     <h3> Nossa História:</h3>
@@ -100,7 +100,7 @@
   <div class="carousel-item">	      
    <div class="container-card">	 
     <div class="card">
-     <div class="imgBx" data-text="Social:"><img src="img/social.jpg"></div>
+     <div class="imgBx" data-text="Social:"><img src="img/social.JPG"></div>
       <div class="content">
        <div>
 	    <h3>Social:</h3>
@@ -112,7 +112,7 @@
       </div> 
      </div>	 	  	  
   <div class="card">
-    <div class="imgBx" data-text="Parceiros:"><img src="img/work.png"></div>
+    <div class="imgBx" data-text="Parceiros:"><img src="img/work.JPG"></div>
      <div class="content">
       <div>
 		<h3>Você</h3>
@@ -134,7 +134,7 @@
   <div class="carousel-item">         
    <div class="container-card">	 
      <div class="card">
-      <div class="imgBx" data-text="Serviços:"><img src="img/foward.jpg"></div>
+      <div class="imgBx" data-text="Serviços:"><img src="img/foward.JPG"></div>
        <div class="content">
         <div>
 	     <h3> Facil para realizar:</h3>
@@ -154,7 +154,7 @@
 	   </div> 
       </div>	 	  	  
   <div class="card">
-    <div class="imgBx" data-text="Fundadores:"><img src="img/view.jpg"><div>
+    <div class="imgBx" data-text="Fundadores:"><img src="img/view.JPG"><div>
      <div class="content">
       <div>
 	   <h3>Missão</h3>

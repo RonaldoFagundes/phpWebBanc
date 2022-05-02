@@ -70,7 +70,7 @@
       <input type="text"   name="tran_tipo" readonly id="tipo" required>
     </div>
     <div class="transacao-qr">
-      <img src="img/qrcode.PNG">
+      <img src="img/qrcode.JPG">
     </div> 
 	<div class="transacao-dados">
 	  <input type="text"   name="tr_cod"   placeholder="codigo">
