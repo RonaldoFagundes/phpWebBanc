@@ -60,12 +60,9 @@
         <div>	
 		 <h3>Quem somos :</h3>		
          <p>
-          Uma startap fundanda por um grupo de desenvolvedores com a missão de impactar e transformar!
-         </p>	
-         <p>
+          Uma startap fundanda por um grupo de desenvolvedores com a 
+          missão de impactar e transformar!
           Acreditamos que com a tecnologia 
-         </p>
-         <p>
           e mentes brilhantes podemos transformar o mundo
          </p>	              
 		</div>   
@@ -77,19 +74,11 @@
         <div>
 	     <h3> Nossa História:</h3>
          <p>
-          um casal diante das necessidades de se adaptar ao
-         </p>
-         <p>
-          uso de aplicativos e sites começa a estudar tecnologia e 
-         </p>
-         <p>
-          pesquisar as dificuldades das pessoas a acessar
-         </p>
-         <p>
-          determinados tipos de serviços
-         </p>
-         <p>
-          surgi então a web bussines banc 
+          um casal diante das necessidades de se adaptarem ao
+          uso da tecnologia, começam a estudar e em um estado de empatia
+          ao perceberem as dificuldades das pessoas em acessar
+          determinados tipos de serviços, surgi então uma ideia de torna as
+          ferramentas tecnologicas faceis e acessiveis a todos.
          </p>                
         </div>
        </div> 
@@ -117,13 +106,13 @@
       <div>
 		<h3>Você</h3>
         <p>
-         que acredita em nós                                 
+         para voçê que acredita que a tecnologia existe                               
         </p>
         <p>
          para tornar a sua                                 
         </p>
         <p>
-         vida simples                               
+         vida mais simples                               
         </p>                 
 	  </div>
      </div> 
